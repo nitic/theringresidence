@@ -256,7 +256,7 @@ nav.linkEffects.linkHoverEffect_2 ul li a.active {
 	font-size: 1.2em;
 }
 .logo h1 a{
-    color: #828080;
+    color: #C0C0C0;
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: bold;
@@ -2028,6 +2028,7 @@ h3.tittle-two{
 	}
 	.promotion {
     width: 90%;
+		margin-left: -20px;
 	}
 	.slider-info h3, .slider-info1 h3, .slider-info2 h3 {
     width: 100%;
@@ -2065,15 +2066,7 @@ h3.tittle-two{
     margin: 0.5em;
 	}
 	.slider-info {
-    padding: 250px 0 100px 0;
-	    min-height: 42px;
-	}
-	.slider-info1 {
-    padding: 250px 0 100px 0;
-	    min-height: 42px;
-	}
-	.slider-info2 {
-    padding: 250px 0 100px 0;
+    padding: 150px 0 0 0;
 	    min-height: 42px;
 	}
 	.slider-info h3, .slider-info1 h3, .slider-info2 h3 {
@@ -2231,15 +2224,8 @@ h3.tittle-two{
 		.search input[type="submit"] {
     right: 0;
 	}
-	.slider-info1 {
-    padding: 176px 0 100px 0;
-    min-height: 42px;
-   }
    .slider-info {
-    padding: 176px 0 100px 0;
-    min-height: 42px;
-   }.slider-info2 {
-    padding: 176px 0 100px 0;
+    padding: 150px 0 0 0;
     min-height: 42px;
    }
    .slider-info h3, .slider-info1 h3, .slider-info2 h3 {
